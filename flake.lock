@@ -7,11 +7,11 @@
         "treefmt-nix": "treefmt-nix"
       },
       "locked": {
-        "lastModified": 1726712339,
-        "narHash": "sha256-WFnmKWbXzlNmMiNHaD4DVtDWUy9/ZJ5yzz8ya+9UJUg=",
+        "lastModified": 1726718927,
+        "narHash": "sha256-CVqeKJVIqOloeJ7vd6semJnvFp8yi2EaQf15Dr+FntE=",
         "owner": "haruki7049",
         "repo": "buildJanetPackage",
-        "rev": "36e7a5b0f91db5e85887fd95830575321fc54417",
+        "rev": "f7bbe6c6044217b17a9887052549f4b5253cd3ac",
         "type": "github"
       },
       "original": {
